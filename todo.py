@@ -1,9 +1,3 @@
-#!/usr/bin/env python3
-"""
-Simple CLI to-do list app with priority and persistence (tasks.json).
-Works with Python 3.7+.
-"""
-
 import json
 from datetime import datetime
 from typing import List, Dict, Tuple
